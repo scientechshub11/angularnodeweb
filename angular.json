@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular2505A"
+    }
+  },
+  "defaultProject": "angular2505A",
+  "cli": {
+    "analytics": "ec8006ab-42e9-4def-be61-8b2f5418848e"
+  }
 }
